@@ -4,7 +4,7 @@
 - 😁 Estudando Javascripyt
 - 💻 Cursando Engenharia de Software
   
-![Samuk_CDS GitHub stats](https://github-readme-stats.vercel.app/api?username=campanhaaaaa&show_icons=true&theme=dracula&count_private=true)
+![Samuk_CDS GitHub stats](https://github-readme-stats.vercel.app/api?username=campanhaaaaa&show_icons=true&theme=highcontrast&count_private=true)
 
 ## Tecnologias que eu uso no meu dia a dia 💻😁
 
@@ -15,7 +15,8 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div><br/>
+ </div>
+
 <br>
 <br>
 
